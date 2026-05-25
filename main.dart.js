@@ -35332,7 +35332,7 @@ a5E(a){var s=0,r=A.S(t.gG),q,p=2,o=[],n,m,l,k,j,i,h
 var $async$tO=A.T(function(b,c){if(b===1){o.push(c)
 s=p}for(;;)switch(s){case 0:p=4
 s=7
-return A.U(A.ax4(A.fl("https://93.123.13.187:8081/auth_tg"),B.c_.Kn(A.av(["init_data",a.a],t.N,t.z),null)),$async$tO)
+return A.U(A.ax4(A.fl("https://aipal-test.ru:8081/auth_tg"),B.c_.Kn(A.av(["init_data",a.a],t.N,t.z),null)),$async$tO)
 case 7:n=c
 if(n.b===200){k=n
 k=B.c_.JK(A.awj(A.auv(k.e)).e1(k.w),null)
